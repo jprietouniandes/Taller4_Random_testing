@@ -9,3 +9,7 @@ Seleccionar un evento al azar entre estos:
 * Hacer click en un botón al azar
 * Realizar el evento
 * Hacer un llamado recursivo a esta misma función hasta que no queden más monkeys.
+
+2. UI/Application Exerciser Monkey en Android.
+
+En el repositorio se encuentra el GIF con la actividad desarrollada en habitica movil.
